@@ -1,0 +1,23 @@
+.titulo span{
+    color: rgb(0, 124, 240);
+}
+
+
+.nav-link{
+    color: #272121;
+}
+
+.navbar{
+    border-top: 1px solid rgb(136, 136, 136);
+    border-bottom: 1px solid rgb(136, 136, 136);
+}
+
+
+.img-nosotros{
+    background-image: url(../img/image\ \(10\).png);
+    height: 33rem;
+}
+
+..nosotros{
+
+}

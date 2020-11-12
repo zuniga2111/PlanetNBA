@@ -1,0 +1,37 @@
+.titulo span{
+    color: rgb(0, 124, 240);
+}
+
+.nav-link{
+    color: black;
+}
+
+.navbar{
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.imagen-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen-principal{
+    background-image: url(../img/nba_logo.jpg);
+    height: 35rem;
+}
+
+.categorias h2{
+font-size: 2.5rem;
+}
+
+.categorias a{
+    color: #272121;
+    text-decoration: none;
+}
+
+.img-nosotros{
+    background-image: url(../img/BILLRUSSELL.jpg);
+    height: 30rem;
+}
